@@ -1,6 +1,8 @@
-# 👋 Hi there! I'm Arash  
+🌎 *"It from bit."*
+---
+👋 Hi there! I'm Arash  
 
-💻 Computer Engineering Student & Developer | Passionate about **Artificial Intelligence, Web & Mobile Development, and Quantum Consciousness**  
+💻 Computer Engineering Student & Developer | Passionate about **Artificial Intelligence, Web & Mobile Development, also Quantum Camputers**  
 
 ---
 
@@ -17,22 +19,22 @@
 ---
 
 ## 📊 GitHub Stats
-![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArashZihayat&show_icons=true&theme=radical)
+![Arash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arash-zihayat&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArashZihayat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-zihayat&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ArashZihayat&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arash-zihayat&theme=onedark)
 
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/arash-zihayat)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/arashzih)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:arashzihayat1249@gmail.com)  
 
 ---
 
-🌎 *"It from bit."*
+
